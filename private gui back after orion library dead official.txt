@@ -1,2 +1,0 @@
-print("deleted, sorry")
-print("-- @EXPTR [on tiktok]")
